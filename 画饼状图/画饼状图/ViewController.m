@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"这是一个测试demo");
+    NSLog(@"我爱北京天安门");
 }
 
 @end
